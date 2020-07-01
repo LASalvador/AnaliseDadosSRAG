@@ -15,6 +15,10 @@ Neste trabalho fizemos a análise de:
 - Sintomas mais comuns a SRAG
 - Pacientes que precisaram de suporte de ventiladores
 
+## Autores
+- [Lucas Salvador](https://github.com/lasalvador)
+- [Mayara Medeiros](https://github.com/mayaramedeiros)
+
 
 ## Tecnologias Utilizadas
 - [Python](https://www.python.org/)
