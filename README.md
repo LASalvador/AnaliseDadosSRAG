@@ -8,6 +8,9 @@ Analise de dados publicados pelo ministério da Saúde sobre Sindrome Respirató
 
 **Na análise em questão utilizou-se o arquivo com data de  30/06/2020**
 
+**Disclemer**
+ Este trabalho foi realizado na FATEC São José dos Campos com o intuito de adquirir conhecimentos nas ferramentas de análise de dados. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
+
 Neste trabalho fizemos a análise de: 
 - Sexo com mais incidência de casos SRAG
 - Evolução dos casos de SRAG
